@@ -67,12 +67,12 @@ Un generador de encuesta con multiples temas de respuesta por selectivas simple.
 
 
 
->Formulario para editar las encuesta que fueron creadas.
+>Formulario para editar las encuesta que no han sido respondidas, se tiene que verificar bien antes de enviar la encuesta porque al ser respondida por un cliente ya no se pueden editar.
 
 ![bracketsEditar](https://user-images.githubusercontent.com/36554510/233808741-67d30102-0595-4417-b263-fe862fe56b20.jpg)
 
 
 
->Mensaje de confirmacion que envia eliminar un cuestionario, pero si tiene clientes que ya han respondido el cuestionario no se puede elimnar.
+>Mensaje de confirmacion que envia al eliminar un cuestionario.
 
 ![bracketsEncuestaEliminar](https://user-images.githubusercontent.com/36554510/233808744-24520318-9415-4fa9-907a-52f56101de1a.jpg)
